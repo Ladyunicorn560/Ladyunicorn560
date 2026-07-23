@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shiksha Shrivastava</h1>
-<h3 align="center">Aspiring Software Developer| Passionate About AI & Open Source</h3>
+<h3 align="center">AI & Machine Learning Enthusiast • Cybersecurity Researcher • Open Source Contributor</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladyunicorn560&label=Profile%20views&color=0e75b6&style=flat" alt="ladyunicorn560" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shiksha" target="blank"><img src="https://img.shields.io/twitter/follow/shiksha?logo=twitter&style=for-the-badge" alt="shiksha" /></a> </p>
 
-- 🔭 I’m currently working on **Flutterflow**
+- 🎓 Computer Science Graduate passionate about building intelligent and secure systems.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms for competitive programming**
+- 🔭 I'm currently developing **Computer Vision solutions for Vehicle Counting and Automatic Number Plate Recognition (ANPR)**.
 
-- 👯 I’m looking to collaborate on [Voice_Assistant](https://github.com/Ladyunicorn560/Voice_Assistant-)
+- 🌱 I'm currently learning **Advanced Machine Learning, Deep Learning, MLOps, and System Design**.
 
-- 💬 Ask me about **Developing backend services with Django**
+- 👯 I'm looking to collaborate on **AI, Machine Learning, Cybersecurity, and Open Source projects**.
 
-- ⚡ Fun fact **I love to play Chess**
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, Django, and Cybersecurity**.
+
+- ⚡ Fun fact: **I enjoy solving challenging problems, playing Chess, and exploring Space & AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
